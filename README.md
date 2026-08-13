@@ -118,7 +118,7 @@ Produces `results/convergence_comparison.png` and `results/unseen_client_spread.
 plus a printed summary table (accuracy, wall-clock time, per-client spread) --
 ready to drop into your results section.
 
-## 7. Notes on what's simplified, for your methods section
+## 7. Notes on methods
 
 - **Bad-trial rejection** uses a robust per-subject amplitude-outlier
   threshold (median + MAD) instead of the original paper's fixed +-100uV
