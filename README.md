@@ -1,7 +1,7 @@
 # Federated EEG Motor Imagery: FedProx vs. FedSplit
 
-Code for the pipeline discussed in our conversation: federated learning on
-the EEG motor imagery dataset, one subject = one client, comparing
+Federated learning on the EEG motor imagery dataset, 
+one subject = one client, comparing
 FedAvg (baseline), FedProx, and a from-scratch FedSplit implementation.
 
 
