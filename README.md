@@ -40,6 +40,7 @@ scripts/
 strategies/
   fedsplit.py         Custom FedSplit strategy (not built into Flower)
   tracking_fedavg.py  Small wrapper so FedAvg/FedProx expose their final model
+  logging_utils.py    Shared round-by-round console logging + incremental results persistence
 results/          JSON results + plots land here
 ```
 
