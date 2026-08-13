@@ -1,0 +1,5 @@
+torch>=2.2
+flwr[simulation]>=1.8
+numpy>=1.24
+scipy>=1.11
+matplotlib>=3.7
